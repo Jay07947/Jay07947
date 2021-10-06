@@ -1,5 +1,12 @@
-### Hi there 👋
+### ✨ Jaesun's Dev-log ✨
+* * *
+. 매일매일 사소한 개발기록 + 메모장 쓰기
+* * *
+2020
 
+* * *
+2021 
+   October
 <!--
 **Jay07947/Jay07947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
